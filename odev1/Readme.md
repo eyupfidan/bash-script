@@ -1,3 +1,4 @@
+
 # 1.Odev: Yedekleme Odevi
 
 Sistemdeki tum kullanicilarin home dizini yedekleyecek, yedek dosyasinin ismi kullanicinin ismi ve yedekleme tarihi ve saati olacak. Yedekleme dizini /mnt olacak; bu bir degiskene atanmali yine ayni dizinde yedekleme dosyasinin md5 dogrulama dosyasi olmali. Yedekleme her gun saat 23:05 gece otomatik yapilmali. /tmp dizini altinda bu scriptin en son ne zaman calistigina dair bir log dosyasi olusturun.
