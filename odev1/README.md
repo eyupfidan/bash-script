@@ -9,24 +9,24 @@ Sistemdeki tum kullanicilarin home dizini yedekleyecek, yedek dosyasinin ismi ku
 ![ListUser](https://i.hizliresim.com/tcbrf52.png)
 
 # List Directory
-![ListDirectory](https://raw.githubusercontent.com/Protein-DevOps-Engineer-Bootcamp/1-hafta-odev-1-shell-scripting-eyupfidan/main/odev1/assets/List%20Directory.png?token=GHSAT0AAAAAABRUJ65EBDEUWETAHHUW7C2SYUTLL4A)
+![ListDirectory](https://i.hizliresim.com/iv407jh.png)
 
 # Execute Bash Script And Enter Mnt Folder
 
-![Execute](https://raw.githubusercontent.com/Protein-DevOps-Engineer-Bootcamp/1-hafta-odev-1-shell-scripting-eyupfidan/main/odev1/assets/Execute%20Sh%20and%20List%20Mnt.png?token=GHSAT0AAAAAABRUJ65EBX77FQKBUAQQJOI4YUTLMGA)
+![Execute](https://i.hizliresim.com/qk4fwcz.png)
 
 # Tar File Md5 Sum Hash
 
-![Tar](https://raw.githubusercontent.com/Protein-DevOps-Engineer-Bootcamp/1-hafta-odev-1-shell-scripting-eyupfidan/main/odev1/assets/Md5%20Sum%20.png?token=GHSAT0AAAAAABRUJ65EB6DRHEUZEF4AYBYMYUTLMUA)
+![Tar]()
 
 # Open Tar File (Only Home Directory Backup)
 
-![Home](https://raw.githubusercontent.com/Protein-DevOps-Engineer-Bootcamp/1-hafta-odev-1-shell-scripting-eyupfidan/main/odev1/assets/Open%20Tar%20File%20See%20Home%20Directory.png?token=GHSAT0AAAAAABRUJ65F4RCP3YJXD3XECK4SYUTLNDA)
+![Home](https://i.hizliresim.com/hhphw7f.png)
 
 # Cronjob Config (Only 23:05)
 
-![Cronjob](https://raw.githubusercontent.com/Protein-DevOps-Engineer-Bootcamp/1-hafta-odev-1-shell-scripting-eyupfidan/main/odev1/assets/Cronjon%20Config.png?token=GHSAT0AAAAAABRUJ65ED535PRW4CFWEIQBGYUTLNNA)
+![Cronjob](https://i.hizliresim.com/5n9omvg.png)
 
 # Create Log File
 
-![Log](https://raw.githubusercontent.com/Protein-DevOps-Engineer-Bootcamp/1-hafta-odev-1-shell-scripting-eyupfidan/main/odev1/assets/backup-log.png?token=GHSAT0AAAAAABRUJ65EYP5QS5PP3SM63MYCYUTLJRA)
+![Log](https://i.hizliresim.com/g9zgris.png)
