@@ -21,11 +21,11 @@ Sistemdeki tum kullanicilarin home dizini yedekleyecek, yedek dosyasinin ismi ku
 
 # Open Tar File (Only Home Directory Backup)
 
-![Home](https://raw.githubusercontent.com/Protein-DevOps-Engineer-Bootcamp/1-hafta-odev-1-shell-scripting-eyupfidan/main/odev1/assets/Open%20Tar%20File%20See%20Home%20Directory.png?token=GHSAT0AAAAAABRUJ65F77WY7FHBMX4LN2EIYUTLAXA)
+![Home](https://raw.githubusercontent.com/Protein-DevOps-Engineer-Bootcamp/1-hafta-odev-1-shell-scripting-eyupfidan/main/odev1/assets/Open%20Tar%20File%20See%20Home%20Directory.png?token=GHSAT0AAAAAABRUJ65F4RCP3YJXD3XECK4SYUTLNDA)
 
 # Cronjob Config (Only 23:05)
 
-![Cronjob](https://raw.githubusercontent.com/Protein-DevOps-Engineer-Bootcamp/1-hafta-odev-1-shell-scripting-eyupfidan/main/odev1/assets/Cronjon%20Config.png?token=GHSAT0AAAAAABRUJ65EOEG52SYZCWWWRRFOYUTLCDA)
+![Cronjob](https://raw.githubusercontent.com/Protein-DevOps-Engineer-Bootcamp/1-hafta-odev-1-shell-scripting-eyupfidan/main/odev1/assets/Cronjon%20Config.png?token=GHSAT0AAAAAABRUJ65ED535PRW4CFWEIQBGYUTLNNA)
 
 # Create Log File
 
