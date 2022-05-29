@@ -17,7 +17,7 @@ Sistemdeki tum kullanicilarin home dizini yedekleyecek, yedek dosyasinin ismi ku
 
 # Tar File Md5 Sum Hash
 
-![Tar]()
+![Tar](https://i.hizliresim.com/9jfyjqx.png)
 
 # Open Tar File (Only Home Directory Backup)
 
