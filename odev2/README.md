@@ -4,4 +4,4 @@ Alarm Odevi: Bir script yazin :D bu script GNU/Linux sunucunuzun uzerinde dakika
 
 # CronJob
 
-![ListUser]([https://i.hizliresim.com/ppv46qu.png)
+![ListUser](https://i.hizliresim.com/ppv46qu.png)
