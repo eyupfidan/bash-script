@@ -26,3 +26,7 @@ Sistemdeki tum kullanicilarin home dizini yedekleyecek, yedek dosyasinin ismi ku
 # Cronjob Config (Only 23:05)
 
 ![Cronjob](https://raw.githubusercontent.com/Protein-DevOps-Engineer-Bootcamp/1-hafta-odev-1-shell-scripting-eyupfidan/main/odev1/assets/Cronjon%20Config.png?token=GHSAT0AAAAAABRUJ65EOEG52SYZCWWWRRFOYUTLCDA)
+
+# Create Log File
+
+![Log](https://raw.githubusercontent.com/Protein-DevOps-Engineer-Bootcamp/1-hafta-odev-1-shell-scripting-eyupfidan/main/odev1/assets/backup-log.png?token=GHSAT0AAAAAABRUJ65EYP5QS5PP3SM63MYCYUTLJRA)
