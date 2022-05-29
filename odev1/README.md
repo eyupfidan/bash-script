@@ -21,7 +21,7 @@ Sistemdeki tum kullanicilarin home dizini yedekleyecek, yedek dosyasinin ismi ku
 
 # Open Tar File (Only Home Directory Backup)
 
-![Home](https://i.hizliresim.com/hhphw7f.png)
+![Home](https://i.hizliresim.com/368f4yy.png)
 
 # Cronjob Config (Only 23:05)
 
