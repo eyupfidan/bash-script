@@ -6,7 +6,7 @@ Sistemdeki tum kullanicilarin home dizini yedekleyecek, yedek dosyasinin ismi ku
 
 # List User
 
-![ListUser](https://raw.githubusercontent.com/Protein-DevOps-Engineer-Bootcamp/1-hafta-odev-1-shell-scripting-eyupfidan/main/odev1/assets/ListUser.png?token=GHSAT0AAAAAABRUJ65ERJC2MXILM3MJOLX6YUTLEMQ)
+![ListUser](https://raw.githubusercontent.com/Protein-DevOps-Engineer-Bootcamp/1-hafta-odev-1-shell-scripting-eyupfidan/main/odev1/assets/ListUser.png?token=GHSAT0AAAAAABRUJ65FLGP3Y3URHS7TNRUOYUTLLOQ)
 
 # List Directory
 ![ListDirectory](https://raw.githubusercontent.com/Protein-DevOps-Engineer-Bootcamp/1-hafta-odev-1-shell-scripting-eyupfidan/main/odev1/assets/List%20Directory.png?token=GHSAT0AAAAAABRUJ65ERNSOB6ULLVHNTIRCYUTLFEA)
