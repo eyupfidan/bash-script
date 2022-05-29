@@ -9,15 +9,15 @@ Sistemdeki tum kullanicilarin home dizini yedekleyecek, yedek dosyasinin ismi ku
 ![ListUser](https://raw.githubusercontent.com/Protein-DevOps-Engineer-Bootcamp/1-hafta-odev-1-shell-scripting-eyupfidan/main/odev1/assets/ListUser.png?token=GHSAT0AAAAAABRUJ65FLGP3Y3URHS7TNRUOYUTLLOQ)
 
 # List Directory
-![ListDirectory](https://raw.githubusercontent.com/Protein-DevOps-Engineer-Bootcamp/1-hafta-odev-1-shell-scripting-eyupfidan/main/odev1/assets/List%20Directory.png?token=GHSAT0AAAAAABRUJ65ERNSOB6ULLVHNTIRCYUTLFEA)
+![ListDirectory](https://raw.githubusercontent.com/Protein-DevOps-Engineer-Bootcamp/1-hafta-odev-1-shell-scripting-eyupfidan/main/odev1/assets/List%20Directory.png?token=GHSAT0AAAAAABRUJ65EBDEUWETAHHUW7C2SYUTLL4A)
 
 # Execute Bash Script And Enter Mnt Folder
 
-![Execute](https://raw.githubusercontent.com/Protein-DevOps-Engineer-Bootcamp/1-hafta-odev-1-shell-scripting-eyupfidan/main/odev1/assets/Execute%20Sh%20and%20List%20Mnt.png?token=GHSAT0AAAAAABRUJ65F4PLUPWNVGWUOXNCYYUTK6NQ)
+![Execute](https://raw.githubusercontent.com/Protein-DevOps-Engineer-Bootcamp/1-hafta-odev-1-shell-scripting-eyupfidan/main/odev1/assets/Execute%20Sh%20and%20List%20Mnt.png?token=GHSAT0AAAAAABRUJ65EBX77FQKBUAQQJOI4YUTLMGA)
 
 # Tar File Md5 Sum Hash
 
-![Tar](https://raw.githubusercontent.com/Protein-DevOps-Engineer-Bootcamp/1-hafta-odev-1-shell-scripting-eyupfidan/main/odev1/assets/Md5%20Sum%20.png?token=GHSAT0AAAAAABRUJ65E26MPRTQ4RPU2DZ2UYUTK7MQ)
+![Tar](https://raw.githubusercontent.com/Protein-DevOps-Engineer-Bootcamp/1-hafta-odev-1-shell-scripting-eyupfidan/main/odev1/assets/Md5%20Sum%20.png?token=GHSAT0AAAAAABRUJ65EB6DRHEUZEF4AYBYMYUTLMUA)
 
 # Open Tar File (Only Home Directory Backup)
 
