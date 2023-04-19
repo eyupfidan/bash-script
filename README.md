@@ -1,4 +1,4 @@
-# Backup System Homework
+# Bash Script Tasks
 
 This repository contains two scripts for the Backup System homework assignment:
 
