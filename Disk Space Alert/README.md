@@ -4,4 +4,4 @@ Task Description: Write a script that runs on your GNU/Linux server once a minut
 
 # CronJob
 
-![ListUser](https://i.hizliresim.com/ppv46qu.png)
+![ListUser](https://raw.githubusercontent.com/eyupfidan/bash-script/main/Disk%20Space%20Alert/assets/disk_alert.png)
